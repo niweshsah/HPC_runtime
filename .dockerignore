@@ -1,0 +1,8 @@
+build*/
+.tools/
+.venv/
+.git/
+models/*.onnx
+models/*.onnx.data
+*.csv
+__pycache__/

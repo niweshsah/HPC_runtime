@@ -1,0 +1,8 @@
+build*/
+.tools/
+.venv/
+models/*.onnx
+models/*.onnx.data
+*.csv
+__pycache__/
+.DS_Store
